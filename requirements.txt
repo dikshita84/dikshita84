@@ -1,0 +1,2 @@
+# Dependencies for automatic tweeting
+Tweepy>=4.0
